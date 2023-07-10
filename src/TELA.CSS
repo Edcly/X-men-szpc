@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.topo {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background: url(../src/imagens/bg-desktop.jpg) no-repeat bottom center scroll;
+    background-color: black;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
